@@ -5,6 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/satyawikananda/namiku",
   "author": "Satya Wikananda",
+  "scripts": {
+    "deploy:prod": "vercel --prod",
+    "deploy:dev": "vercel"
+  },
   "license": "MIT",
   "dependencies": {
     "vercel": "^20.1.4"

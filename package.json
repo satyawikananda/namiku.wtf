@@ -1,0 +1,12 @@
+{
+  "name": "namiku.wtf",
+  "version": "1.0.0",
+  "description": "Simple shorten URL powered by vercel",
+  "main": "index.js",
+  "repository": "https://github.com/satyawikananda/namiku",
+  "author": "Satya Wikananda",
+  "license": "MIT",
+  "dependencies": {
+    "vercel": "^20.1.4"
+  }
+}

@@ -11,6 +11,10 @@
       {
         "source": "/linkedin-satya",
         "destination": "https://www.linkedin.com/in/i-gusti-ngurah-satya-wikananda-8a1655150/"
+      },
+      {
+        "source": "/just-jpop-songs",
+        "destination": "https://open.spotify.com/playlist/4eZGAsI7JC7NTROIn3XDpd?si=eVPXU2qrS7u6eFAMFplxZQ"
       }
     ]
   }

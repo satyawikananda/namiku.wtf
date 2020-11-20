@@ -7,6 +7,10 @@
       {
         "source": "/web-satya",
         "destination": "https://satyawikananda.tech"
+      },
+      {
+        "source": "/linkedin-satya",
+        "destination": "https://www.linkedin.com/in/i-gusti-ngurah-satya-wikananda-8a1655150/"
       }
     ]
   }
